@@ -1,0 +1,15 @@
+1. Research the Mental Health First Aid process.
+    a. What is the underlying context of Mental Health First Aid?
+    b. What are the basic steps of Mental Health First Aid?
+    c. What scenarios are most appropriate for Mental Health First Aid?
+    d. How can the steps vary based on the scenario?
+2. Design the demo game flow based on Mental Health First Aid.
+    a. How can the player practice Mental Health First Aid throughout the game?
+    b. How can the level of difficulty increase without frustrating or boring the player?
+    c. How can the characters display different reactions based on different choices of the player?
+    d. How would a reward system work?
+    e. How would feedback be given?
+3. Get game assets.
+4. Set up the game environment.
+5. Code out the basic structure of the game.
+6. ???
